@@ -1,0 +1,6 @@
+# dune init proj study
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/ubuntu/.cache/dune/db
+# Workspace root: /mnt/c/Users/iamre/Downloads/myfirstprojectever/Ocaml/study
+# Auto-detected concurrency: 16
